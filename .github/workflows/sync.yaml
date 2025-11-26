@@ -1,4 +1,4 @@
-name: Sync from upstream folder
+name: Sync portrait folder from upstream
 
 on:
   workflow_dispatch:
@@ -17,12 +17,15 @@ jobs:
 
       - name: Clone upstream repo (shallow)
         run: |
-          git clone --depth=1 https://github.com/PMDCollab/SpriteCollab.git upstream-repo
+          git clone --depth=1 https://github.com/PMDCollab/SpriteCollab.git /tmp/upstream-repo
 
-      - name: Replace contents with desired folder only
+      - name: Clear repo except .github
         run: |
-          rm -rf ./* .gitignore
-          cp -r upstream-repo/portrait ./data
+          find . -maxdepth 1 ! -name '.' ! -name '.github' ! -name '.git' -exec rm -rf {} +
+
+      - name: Copy portrait folder
+        run: |
+          cp -r /tmp/upstream-repo/portrait ./portrait
 
       - name: Commit and push if changed
         run: |
@@ -30,7 +33,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add .
-            git commit -m "Sync from upstream $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git commit -m "Sync portrait folder $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin HEAD:main
           else
             echo "No changes to commit."
