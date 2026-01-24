@@ -23,11 +23,15 @@ jobs:
 
       - name: Clear repo except .github
         run: |
+          # This deletes the old portrait folder AND the old tracker.json
           find . -maxdepth 1 ! -name '.' ! -name '.github' ! -name '.git' -exec rm -rf {} +
 
-      - name: Copy portrait folder
+      - name: Copy portrait folder and tracker
         run: |
+          # Copy the folder
           cp -r /tmp/upstream-repo/portrait ./portrait
+          # Copy the specific file
+          cp /tmp/upstream-repo/tracker.json ./tracker.json
 
       - name: Commit and push if changed
         run: |
@@ -35,7 +39,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add .
-            git commit -m "Sync portrait folder $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git commit -m "Sync portrait folder and tracker $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin master
           else
             echo "No changes to commit."
