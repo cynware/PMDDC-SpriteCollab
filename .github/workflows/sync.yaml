@@ -26,12 +26,16 @@ jobs:
           # This deletes the old portrait folder AND the old tracker.json
           find . -maxdepth 1 ! -name '.' ! -name '.github' ! -name '.git' -exec rm -rf {} +
 
-      - name: Copy portrait folder and tracker
+      - name: Copy portrait folder and files
         run: |
           # Copy the folder
           cp -r /tmp/upstream-repo/portrait ./portrait
-          # Copy the specific file
+          
+          # Copy the tracker
           cp /tmp/upstream-repo/tracker.json ./tracker.json
+          
+          # NEW: Copy credits file
+          cp /tmp/upstream-repo/spritebot_credits.txt ./spritebot_credits.txt
 
       - name: Commit and push if changed
         run: |
