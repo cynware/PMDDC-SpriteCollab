@@ -1781,6 +1781,8 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Parasect Altcolor: Normal
 		Venomoth Altcolor: Normal
 		Alakazam Female: Normal
+		Weepinbell: Pain,Pain^
+		Weepinbell Shiny: Normal,Normal^,Pain,Pain^
 		Tentacool Shiny: Normal,Angry
 		Rapidash Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Muk Shiny: Normal
@@ -3992,7 +3994,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Arbok Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arbok Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arbok Circular: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Arbok Circular Shiny: Normal
+		Arbok Circular Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pikachu Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
 		Pikachu Original_Cap: Normal,Normal^
 		Pikachu Original_Cap Shiny: Normal,Normal^
@@ -7971,7 +7973,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Venomoth Shiny: Normal
 		Golduck Shiny: Normal
 		Poliwag Shiny: Normal,Normal^
-		Weepinbell Shiny: Normal,Normal^
 		Doduo Shiny: Normal
 		Doduo Shiny Female: Normal
 		Dodrio Shiny: Normal
