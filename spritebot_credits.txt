@@ -5166,7 +5166,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Fidough Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dachsbun: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dachsbun Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Smoliv: Normal,Teary-Eyed,Normal^,Teary-Eyed^
+		Smoliv: Normal,Teary-Eyed,Normal^,Teary-Eyed^,Joyous,Joyous^,Crying,Crying^,Shouting,Surprised,Shouting^,Surprised^,Dizzy,Dizzy^,Worried,Worried^
 		Smoliv Shiny: Normal,Teary-Eyed,Normal^,Teary-Eyed^
 		Dolliv: Normal
 		Dolliv Shiny: Normal
@@ -6883,6 +6883,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Eldegoss Alternate: Idle,Walk,Swing,Double,Rotate
 		Dubwool: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe
 		Dubwool Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe
+		Boltund: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Cramorant: Walk,Double
 		Runerigus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Runerigus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -7323,6 +7324,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Luxio Altcolor Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Burmy: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Burmy Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Cherrim Sunshine: Pose,Pull,Pain,DeepBreath,Head,Cringe
 		Honchkrow: EventSleep,Wake,Pose,Pain,Float,DeepBreath,Nod,Laying,Cringe
 		Stunky Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop
 		Bronzor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -7331,6 +7333,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Porygon_Z: EventSleep,Wake,Float,Laying,Head
 		Porygon_Z Shiny: EventSleep,Wake,Float,Laying,Head
 		Probopass Beta Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Dusknoir: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Serperior Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Dewott Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Stoutland Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -9170,6 +9173,12 @@ stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
 		Klink: Idle,Walk,Attack,Charge,Shoot
 		Aromatisse: Idle,Rotate
 
+Discord:<@!225949425292410880>
+	Sprite:
+		Klink Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+		Klang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+		Klinklang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+
 Discord:<@!713792248348672040>
 	Sprite:
 		Tynamo: Idle,Walk,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Hop
@@ -10298,6 +10307,7 @@ distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 Ajifer	Discord:<@!1042498956082544640>	Contact:<@1042498956082544640>
 	Portrait:
 		Smoliv: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Smoliv Shiny: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 
 Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
 	Portrait:
