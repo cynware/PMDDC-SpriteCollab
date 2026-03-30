@@ -4178,6 +4178,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Spinarak Altcolor: Normal
 		Spinarak Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ariados Altcolor: Normal
+		Crobat: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Crobat Shiny: Normal
 		Crobat Altcolor: Normal
 		Crobat Altcolor Shiny: Normal
@@ -6168,7 +6169,7 @@ bwappi	Discord:<@!193530896211509248>	Contact:https://bsky.app/profile/bwappi.bs
 
 Grimlin	Discord:<@!217653022094786560>	Contact:https://twitter.com/Griimlin
 	Sprite:
-		Charmeleon: EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Sit,LookUp,Laying,LeapForth,Cringe,TumbleBack
+		Charmeleon: EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Sit,LookUp,Laying,LeapForth,Cringe,TumbleBack,Trip,HitGround,Faint
 		Raichu: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Jirachi: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
@@ -6679,6 +6680,10 @@ Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 Kevin0itachi	Contact:https://www.deviantart.com/kevin0itachi
 	Sprite:
 		Charizard Mega_X: Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
+
+Kevin	Discord:<@!479925530129596426>	Contact:<@479925530129596426>
+	Sprite:
+		Charizard Mega_X: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
 
 Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 	Portrait:
@@ -8137,6 +8142,7 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Gloom Altcolor Female: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Snorlax Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meganium Alternate Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Crobat: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Jumpluff Altcolor: Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Metang: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Metang Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9578,6 +9584,8 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Rillaboom Shiny: Normal^
 		Indeedee Alternate: Normal
 		Indeedee Alternate Shiny: Normal
+		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Wattrel: Normal,Happy,Inspired,Pain
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
