@@ -1441,6 +1441,7 @@ JFain	Discord:<@!702275233125630042>
 		Dewott: "
 		Mienfoo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Mienfoo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+		Braviary Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grubbin: Normal
 		Steenee: Normal,Angry,Happy,Pain,Worried,Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Special3,Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
 		Tsareena Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -4872,7 +4873,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Honedge Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Aegislash: Normal,Normal^
 		Aegislash Shiny: Normal,Normal^
-		Aegislash Blade: Normal,Normal^
+		Aegislash Blade: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Aegislash Blade Shiny: Normal,Normal^
 		Barbaracle Shiny: Normal,Normal^,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Barbaracle Mega Shiny: Normal,Normal^
@@ -7037,7 +7038,7 @@ Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/mich
 		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Raging_Bolt: Idle,Swing,Double,Rotate
 
-Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
+Noo	Discord:<@!217899432652308480>	Contact:https://artfight.net/~NooNoo_Skidoo
 	Portrait:
 		Missingno_ Madaamu: Normal
 		Missingno_ Madaamu Shiny: Normal
@@ -8766,7 +8767,7 @@ SpectrumStars	Discord:<@!1038631037284126741>	Contact:https://x.com/numbertism
 		Grovyle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Lapras Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swing,Double,Rotate,Hop
-		Articuno Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Articuno Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Zapdos Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Grovyle Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
@@ -10397,6 +10398,10 @@ Dasawkem	Discord:<@!183136061487054848>	Contact:https://dasawkem.carrd.co/#socia
 SkeleSpider	Discord:<@!291732421332697098>	Contact:https://linktr.ee/skelespider
 	Portrait:
 		Meloetta: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+
+radpeepo	Discord:<@!150308109489799169>	Contact:<https://linktr.ee/radpeepo>
+	Portrait:
+		Aegislash Blade: Sad,Sad^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Determined,Determined^
 
 Xrit63	Discord:<@!512597386279780354>	Contact:Xrit63PMD@outlook.com
 	Portrait:
