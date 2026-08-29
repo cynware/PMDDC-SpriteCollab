@@ -96760,7 +96760,7 @@
       "Worried": false,
       "Special3": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1461138519895445626/portrait-0236.png?ex=696976c9&is=69682549&hm=4940b4e6315d52b40c3ba429e6970e2448a844e98da9426f0daf597486deabeb&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1542948115177406545/portrait-0236.png?ex=6a9315e9&is=6a91c469&hm=58665d777c4925a7ad396843d458d528a02849312d37b80c5cd76b3ff03fe026&",
     "portrait_modified": "2023-06-27 20:58:24.290872",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -200213,7 +200213,9 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1542701604472496190/sprite-0530.zip?ex=6a923054&is=6a90ded4&hm=6bb46603bb09f0b9f9ca992f9695c2ce7d351356564e3d9aca32f352b1fc62a4&",
     "sprite_modified": "2024-12-02 03:47:24.831122",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1543026152531034275": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1433635855985147944/sprite_recolor-0530-0000-0001.png?ex=690568ef&is=6904176f&hm=6f2f2dc300214db9a4343e2cf05013b2a98286abd2b658ea6e6273660d1d2e53&",
     "sprite_required": true,
     "sprite_talk": {
@@ -302429,7 +302431,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1264643508241960970/sprite-0910.zip?ex=669e9e8c&is=669d4d0c&hm=c317193ce5273ba74d56b22499a0652a5c962f1e08c54c33a1683f2cbbd72fb4&",
     "sprite_modified": "2024-04-20 08:59:45.827053",
     "sprite_pending": {},
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1287067367968477307/sprite_recolor-0910-0000-0001.png?ex=66f03265&is=66eee0e5&hm=ca0f9febe52a747443d2abe8a21502e70761ec9704b72977ddca5f086831fd56&",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1543139805011906590/sprite_recolor-0910-0000-0001.png?ex=6a93c86f&is=6a9276ef&hm=131b85ec6fba5138cb7956cc6f2405171b369c3c93829667ea37e6509b4a412c&",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1205873969329340426
