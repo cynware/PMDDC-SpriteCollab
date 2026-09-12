@@ -85,6 +85,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Nidoran_F: Normal
 		Nidorina: Normal
 		Nidoqueen: Normal
+		Nidoqueen Temp: Normal
 		Nidoran_M: Normal
 		Nidorino: Normal
 		Nidoking: Normal,Surprised
@@ -1591,6 +1592,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Beedrill Mega: Normal
 		Nidoqueen: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Nidoqueen Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Nidoqueen Temp: Special0,Special3
 		Nidoking: Normal,Special0,Special3,Surprised
 		Nidoking Shiny: Crying,Happy,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Ninetales Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -3920,7 +3922,6 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Wobbuffet Shiny: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Determined
 		Forretress Altcolor: Normal
 		Snubbull: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Dizzy,Worried,Determined
-		Qwilfish Altcolor: Normal
 		Teddiursa: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swinub Alternate: Normal
 		Swinub Alternate Shiny: Normal
@@ -4041,7 +4042,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Quagsire Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Misdreavus Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Forretress Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Ricochet,Twirl,Swing,Double,Rotate,Hop
-		Qwilfish Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
+		Qwilfish Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Slugma Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
 		Magcargo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
 		Octillery Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,RearUp,Swing,Double,Rotate,Hop,Faint,Fainted
@@ -4161,6 +4162,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sandshrew Alola Shiny: Normal
 		Nidoqueen Alternate: Normal
 		Nidoqueen Alternate Shiny: Normal
+		Nidoqueen Temp Shiny: Normal,Special0,Special3
 		Nidoran_M Altcolor: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Nidorino Altcolor: Normal
 		Clefable Mega: Normal
@@ -4410,6 +4412,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gligar Altcolor: Normal,Pain,Surprised,Angry
 		Snubbull Altcolor: Normal,Surprised,Teary-Eyed
 		Granbull Altcolor: Normal
+		Qwilfish Alternate: Normal
+		Qwilfish Alternate Shiny: Normal
 		Scizor Mega: Normal
 		Scizor Mega Shiny: Normal
 		Shuckle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9257,6 +9261,10 @@ powercristal	Contact:https://www.deviantart.com/powercristal
 		Mandibuzz: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Volcarona: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 		Cobalion: Attack,Idle,Walk
+
+Skycloud383	Discord:<@!546904324098490368>	Contact:<@546904324098490368>
+	Sprite:
+		Excadrill: Eat
 
 pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 	Sprite:
