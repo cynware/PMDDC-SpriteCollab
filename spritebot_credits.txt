@@ -1567,6 +1567,7 @@ JFain	Discord:<@!702275233125630042>
 		Morpeko Hangry: Sleep,Hurt
 		Dracovish: Idle,Sleep,Hurt,Attack,Hop,Charge,Shoot,Strike,Twirl
 		Eternatus Eternamax: Idle,Walk,Attack,Charge,Shoot,Strike,Swing,Double,Rotate
+		Glastrier: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Overqwil: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swing,Double,Rotate,Hop
 		Fuecoco: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Eat,Pose
 		Quaxly: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Twirl,Swing,Double,Rotate,Hop
@@ -1888,6 +1889,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Mime_Jr_: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mime_Jr_ Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mime_Jr_ Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Gible: Pain,Stunned,Special2,Determined,Special0
 		Garchomp: Happy,Inspired,Surprised,Stunned,Dizzy,Special3
 		Garchomp Mega: Normal
 		Garchomp Mega Shiny: Normal
@@ -3202,6 +3204,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Primarina: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Yungoos: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Bite,Swing,Double,Rotate,Hop
 		Crabominable Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Twirl,Swing,Double,Rotate,Hop
+		Oricorio: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Oricorio Pom_Pom: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Shock,Swing,Double,Rotate,Hop
 		Oricorio Pa_U: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cutiefly: Walk,Attack,Hover,Shoot,Sleep,Hurt,Idle,Double,Hop,Charge,Rotate,Swing,Strike
@@ -9320,6 +9323,7 @@ DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 		Zygarde Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zygarde Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Zygarde Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Zygarde Mega_Skytemple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Drampa Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zeraora Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
