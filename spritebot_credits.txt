@@ -85,7 +85,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Nidoran_F: Normal
 		Nidorina: Normal
 		Nidoqueen: Normal
-		Nidoqueen Temp: Normal
 		Nidoran_M: Normal
 		Nidorino: Normal
 		Nidoking: Normal,Surprised
@@ -1591,9 +1590,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Caterpie Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Metapod: Happy,Normal,Pain
 		Beedrill Mega: Normal
-		Nidoqueen: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
-		Nidoqueen Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
-		Nidoqueen Temp: Special0,Special3
+		Nidoqueen: Special0,Special3
 		Nidoking: Normal,Special0,Special3,Surprised
 		Nidoking Shiny: Crying,Happy,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Ninetales Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -3046,6 +3043,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Arceus Question_Mark: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Arceus Question_Mark Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Arceus Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Victini Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
 		Samurott Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Patrat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Watchog: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Appeal,Swing,Double,Rotate,Hop
@@ -3211,6 +3209,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Oricorio Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Oricorio Pom_Pom: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Shock,Swing,Double,Rotate,Hop
 		Oricorio Pa_U: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Oricorio Sensu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cutiefly: Walk,Attack,Hover,Shoot,Sleep,Hurt,Idle,Double,Hop,Charge,Rotate,Swing,Strike
 		Ribombee: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Strike,Swing,Walk
 		Rockruff: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -4168,9 +4167,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Raichu Mega_Y Shiny: Normal
 		Sandshrew Alola: Normal
 		Sandshrew Alola Shiny: Normal
+		Nidoqueen Shiny: Normal,Special0,Special3,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nidoqueen Alternate: Normal
 		Nidoqueen Alternate Shiny: Normal
-		Nidoqueen Temp Shiny: Normal,Special0,Special3
 		Nidoran_M Altcolor: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Nidorino Altcolor: Normal
 		Clefable Mega: Normal
@@ -5183,6 +5182,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Eldegoss Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Wooloo: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Wooloo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+		Dubwool: Sigh,Pain,Stunned,Worried
 		Chewtle: "
 		Drednaw: Normal
 		Drednaw Shiny: Normal
@@ -6189,6 +6189,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Silicobra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cramorant: Walk,Double
+		Barraskewda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Toxtricity Lowkey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
 		Sizzlipede Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Centiskorch Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -7874,7 +7875,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Raticate Shiny Female: Normal
 		Sandshrew Shiny: Normal
 		Nidorina Shiny: Normal
-		Nidoqueen Shiny: Normal
 		Nidoran_M Shiny: Normal
 		Zubat Shiny: Normal
 		Zubat Shiny Female: Normal
@@ -9150,7 +9150,7 @@ TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
 		Ekans: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ekans Cutscene: Sad,Joyous,Special1,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nidorina: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Nidoqueen Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Nidoqueen: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Persian Alola: Normal
 		Persian Alola Shiny: Normal
 		Mr_Mime Galar: Normal
